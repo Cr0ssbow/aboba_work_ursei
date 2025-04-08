@@ -1,1 +1,6 @@
 print("Гоба")
+aboba
+aboba
+aboba
+aboba
+aboba
